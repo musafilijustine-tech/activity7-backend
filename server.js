@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
         <h1>Campus Maintenance API</h1>
         <p><strong>Student:</strong> Musafili Justine (202508384)</p>
         <p><strong>System:</strong> Campus Maintenance Requests</p>
-        <p><strong>Base URL:</strong> Your live render URL goes here later</p>
+        <p><strong>Base URL:</strong> <a href="https://campus-maintenance-api-vt5t.onrender.com">https://campus-maintenance-api-vt5t.onrender.com</a></p>
         
         <h3>Endpoints</h3>
         <ul>
